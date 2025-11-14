@@ -6,13 +6,10 @@ It highlights skills in data wrangling, exploratory data analysis (EDA), SQL que
 
 📂 Dataset
 
-Source: (Add link or description if applicable)
 
 Format: CSV
 
 Content: Includes information such as (briefly describe key columns—e.g., sales data, customer info, transactions, timestamps, etc.)
-
-Size: (Number of rows/columns)
 
 🛠️ Tools & Technologies
 
